@@ -56,7 +56,7 @@ Este projeto faz parte do meu portfólio de projetos na área de Ciência de Dad
 ## 📊 Dashboards
 
 ### Tela 1
-![Dashboard](Captura%de%tela%2026-08-13%114625.png)
+![Dashboard tela 1](Captura%de%tela%2026-08-13%114625.png)
 
 ### Tela 2
 ![Dashboard](Captura%de%tela%2026-08-13%114732.png)
